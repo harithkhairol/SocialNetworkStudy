@@ -1,0 +1,95 @@
+body{margin:0px; font-family: Tahoma,  sans-serif; font-size:14px;}
+#pageTop{
+background: url(headerTop.png) repeat-x;
+height:90px;
+
+
+
+}
+
+#pageTop > #pageTopWrap{
+width:1000px;
+margin:0px auto;
+height:90px;
+}
+
+#pageTop > #pageTopWrap > #pageTopLogo{
+	float:left;
+	height:90px;
+	width:108px;
+
+}
+
+#pageTop > #pageTopWrap > #pageTopRest{
+	float:left;
+	height:90px;
+	width:892px;
+
+}
+
+#pageTop > #pageTopWrap > #pageTopRest > #menu1{
+	height:44px;
+    margin: 12px ;
+
+}
+
+#pageTop > #pageTopWrap > #pageTopRest > #menu1 > div{
+	padding: 4px;
+	text-align: right;
+
+}
+
+#pageTop > #pageTopWrap > #pageTopRest > #menu1 > div > a{  
+ 	color: black;
+ 	text-decoration:none;
+}
+
+#pageTop > #pageTopWrap > #pageTopRest > #menu1 > div > a:hover{  
+
+	
+ 	color: #C0E73D;
+ 	
+}
+
+#pageTop > #pageTopWrap > #pageTopRest > #menu2{
+	height:44px;
+
+}
+
+#pageTop > #pageTopWrap > #pageTopRest > #menu2 > div{
+	padding: 4px;
+
+}
+
+#pageTop > #pageTopWrap > #pageTopRest > #menu2 > div > a{  
+
+	display:block;
+	float:left;
+ 	color: black;
+ 	text-decoration:none;
+    margin: -8px 16px;
+}
+
+#pageTop > #pageTopWrap > #pageTopRest > #menu2 > div > a:hover{  
+
+	
+ 	color: #C0E73D;
+ 	
+}
+
+#pageMiddle{
+	width: 1000px;
+	margin:0px auto;
+	 height: auto;
+	min-height: 500px; 
+
+}
+
+#pageBottom{
+	background: blue !important;
+	padding:24px;
+	font-size:12px;
+	color: #CCC;
+	text-align: center;
+}
+
